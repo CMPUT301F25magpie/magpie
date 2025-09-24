@@ -1,0 +1,5 @@
+# Android Studio settings files
+.idea
+
+# Build files
+.gradle/build/
